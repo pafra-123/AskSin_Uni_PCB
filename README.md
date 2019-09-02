@@ -15,7 +15,7 @@ Kompakte, universale Platine für Asksin-Projekte [Asksin-Projekte](https://asks
 - Platz für Arduino und Funkmodul
 - Config Button
 - 2 Status LEDs
-- 1x Pinleiste für I²C
+- 1x Pinleiste für I²C (J11)
 - Alle freien I/O Pins sind auf Lötaugen geroutet
 - Zusätzliche Durchkontaktierungen beim Funkmodul, damit man mit dem ISP auch später noch dran kommt
 - Optionaler 5V Spannungsregler(z.B. für das optionale Reed-Relais)
@@ -33,7 +33,7 @@ Kompakte, universale Platine für Asksin-Projekte [Asksin-Projekte](https://asks
 - 1x (D1) - SMD-LED rot (1206)
 - 1x (R5) - SMD-Widerstand 1kOhm (0805)
 - 1x (C2) - SMD-Kondensator 10µF (0805)
-- 1x (SW)1 - Kurzhubtaster 6x6mm
+- 1x (SW1) - Kurzhubtaster 6x6mm
 
 D2 (2. LED) und R6 sind optinal falls der Sketch das unterstützt. Werte siehe D1 und R5.
 
