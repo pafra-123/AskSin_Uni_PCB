@@ -23,7 +23,7 @@ Kompakte, universale Platine für Asksin-Projekte [Asksin-Projekte](https://asks
 - Optionaler SMD-Spannungsteiler für HB-UNI-Sen-CAP-MOIST (R1, R2)
 - Optionaler SMD-Spannungsteiler für HB-UNI-Sen-DIST-US (R3, R4)
 - Optionaler SMD-Spannungsteiler für HB-UNI-Sen-PRESS (R7, R8)
-- Die Versorungsspannung wird auf J10 angeschlossen (1 = Vcc (3..10V); 2 = GND)
+- Die Versorungsspannung wird auf J10 angeschlossen (Pin 1 = Vcc (3..10V); Pin 2 = GND)
 
 ### Benötigte Bauteile
 #### Minimalbestückung:
