@@ -23,7 +23,7 @@ Kompakte, universale Platine für Asksin-Projekte [Asksin-Projekte](https://asks
 - Optionaler SMD-Spannungsteiler für HB-UNI-Sen-CAP-MOIST (R1, R2)
 - Optionaler SMD-Spannungsteiler für HB-UNI-Sen-DIST-US (R3, R4)
 - Optionaler SMD-Spannungsteiler für HB-UNI-Sen-PRESS (R7, R8)
-
+- Die Versorungsspannung wird auf J10 angeschlossen (1 = Vcc (3..10V); 2 = GND)
 
 ### Benötigte Bauteile
 #### Minimalbestückung:
@@ -43,6 +43,8 @@ D2 (2. LED) und R6 sind optinal falls der Sketch das unterstützt. Werte siehe D
 - 1x (R1) - SMD-Widerstand 470kOhm (0805)
 - 1x (R2) - SMD-Widerstand 100kOhm (0805)
 
+Die Platine passt in das Gehäuse von "tonischabloni" auf Thingiverse
+[Gehäuse HB-UNI-Sen-CAP-MOIST](https://www.thingiverse.com/thing:3633804)
 
 
 #### Für die Verwendung als HB-UNI-Sen-DIST-US zusätzlich zur Minimalbestückung:
@@ -66,3 +68,5 @@ D2 (2. LED) und R6 sind optinal falls der Sketch das unterstützt. Werte siehe D
 - 1x (K1) Reed-Relais 5V - ACHTUNG! Keines mit eingebauter Freilaufdiode verwenden!
 - 1x (U3) - 5V Festspannungsregler µA 78L05 (TO-92)
 - 2x (C1,C3) - SMD-Kondensator 10µF (0805)
+
+![1-fach Schaltaktor](20190822_222226.jpg)
