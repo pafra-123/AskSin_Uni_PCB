@@ -70,3 +70,7 @@ Die Platine passt in das Gehäuse von "tonischabloni" auf Thingiverse
 - 2x (C1,C3) - SMD-Kondensator 10µF (0805)
 
 ![1-fach Schaltaktor](20190822_222226.jpg)
+
+
+### Hinweise
+Achtung: kein Verpolungs- oder Überspannungschutz vorhanden
