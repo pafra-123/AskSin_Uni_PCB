@@ -6,7 +6,7 @@ Dieses Werk ist lizenziert unter einer [Creative Commons Namensnennung - Nicht-k
 
 Kompakte, universale Platine für Asksin-Projekte [Asksin-Projekte](https://asksinpp.de/)
 
-![Layout](AskSin_Uni_PCB_01a.jpg)
+![LS](AskSin_Uni_PCB_01a.jpg) ![BS](AskSin_Uni_PCB_02.jpg)
 
 [Schaltplan](AskSin_Uni_PCB.pdf)
 
