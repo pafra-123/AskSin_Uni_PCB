@@ -26,10 +26,10 @@ Kompakte, universale Platine für Asksin-Projekte [Asksin-Projekte](https://asks
 
 ### Benötigte Bauteile
 Minimalbestückung:
-U1 - ATmega328P und 3,3V / 8Mhz
-U2 - Funkmodul CC1101 868Mhz
-J6 - 8pol. Stiftleiste, gerade, RM 2,00
-LED1 - SMD-LED rot (1206)
-R5 - SMD-Widerstand 1kOhm (0805)
-C2 - SMD-Kondensator 10µF (0805)
-SW1 - Kurzhubtaster 6x6mm
+- 1x U1 - ATmega328P und 3,3V / 8Mhz
+- 1x U2 - Funkmodul CC1101 868Mhz
+- 1x J6 - 8pol. Stiftleiste, gerade, RM 2,00
+- 1x LED1 - SMD-LED rot (1206)
+- 1x R5 - SMD-Widerstand 1kOhm (0805)
+- 1x C2 - SMD-Kondensator 10µF (0805)
+- 1x SW1 - Kurzhubtaster 6x6mm
