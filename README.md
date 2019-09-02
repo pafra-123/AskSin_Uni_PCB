@@ -6,7 +6,7 @@ Dieses Werk ist lizenziert unter einer [Creative Commons Namensnennung - Nicht-k
 
 Kompakte, universale Platine für Asksin-Projekte [Asksin-Projekte](https://asksinpp.de/)
 
-![LS](AskSin_Uni_PCB_01a.jpg) ![BS](AskSin_Uni_PCB_02.jpg)
+![LS](AskSin_Uni_PCB_01a.jpg)
 
 [Schaltplan](AskSin_Uni_PCB.pdf)
 
@@ -23,3 +23,13 @@ Kompakte, universale Platine für Asksin-Projekte [Asksin-Projekte](https://asks
 - Optionaler SMD-Spannungsteiler für HB-UNI-Sen-CAP-MOIST (R1, R2)
 - Optionaler SMD-Spannungsteiler für HB-UNI-Sen-DIST-US (R3, R4)
 - Optionaler SMD-Spannungsteiler für HB-UNI-Sen-PRESS (R7, R8)
+
+### Benötigte Bauteile
+Minimalbestückung:
+U1 - ATmega328P und 3,3V / 8Mhz
+U2 - Funkmodul CC1101 868Mhz
+J6 - 8pol. Stiftleiste, gerade, RM 2,00
+LED1 - SMD-LED rot (1206)
+R5 - SMD-Widerstand 1kOhm (0805)
+C2 - SMD-Kondensator 10µF (0805)
+SW1 - Kurzhubtaster 6x6mm
