@@ -71,6 +71,7 @@ Die Platine passt in das Gehäuse von "tonischabloni" auf Thingiverse
 
 ![1-fach Schaltaktor](20190822_222226.jpg)
 
+----------------------------------------------------------------------------------------
 
 ### Zusammenbau
 
