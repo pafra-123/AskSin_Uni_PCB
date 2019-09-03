@@ -10,6 +10,8 @@ Kompakte, universale Platine für [Asksin-Projekte](https://asksinpp.de/)
 
 [Schaltplan](AskSin_Uni_PCB.pdf)
 
+----------------------------------------------------------------------------------------
+
 ### Was kann die Platine?
 - Abmessungen ca. 45x45mm
 - Platz für Arduino und Funkmodul
@@ -24,6 +26,8 @@ Kompakte, universale Platine für [Asksin-Projekte](https://asksinpp.de/)
 - Optionaler SMD-Spannungsteiler für HB-UNI-Sen-DIST-US (R3, R4)
 - Optionaler SMD-Spannungsteiler für HB-UNI-Sen-PRESS (R7, R8)
 - Die Versorungsspannung wird auf J10 angeschlossen (Pin 1 = Vcc (3..10V); Pin 2 = GND)
+
+----------------------------------------------------------------------------------------
 
 ### Benötigte Bauteile
 #### Minimalbestückung:
@@ -85,6 +89,7 @@ Wenn das geschafft ist, dann folgen der Arduino und das Funkmodul.
 
 ![Bestückung Teil 2](20190903_054850.jpg)
 
+----------------------------------------------------------------------------------------
 
 ### Generelle Hinweise:
 Achtung: kein Verpolungs- oder Überspannungschutz vorhanden
