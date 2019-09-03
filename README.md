@@ -4,7 +4,7 @@ Dieses Werk ist lizenziert unter einer [Creative Commons Namensnennung - Nicht-k
 
 # AskSin_Uni_PCB
 
-Kompakte, universale Platine für Asksin-Projekte [Asksin-Projekte](https://asksinpp.de/)
+Kompakte, universale Platine für [Asksin-Projekte](https://asksinpp.de/)
 
 ![LS](AskSin_Uni_PCB_01a.jpg)
 
@@ -61,7 +61,7 @@ Die Platine passt in das Gehäuse von "tonischabloni" auf Thingiverse
 
 #### Für die Verwendung als 1-fach Schaltaktor zusätzlich zur Minimalbestückung (Versorgungsspannung größer/gleich 5VDC):
 - 1x (R10) - SMD-Widerstand 1kOhm (0805) - optinal
-- 1x (LED1) - SMD-LED grün (1206) - optinal
+- 1x (LED1) - SMD-LED grün (1206) - optional
 - 1x (R9) - SMD-Widerstand 1kOhm (0805)
 - 1x (D4) - SMD-Diode (SOD-123) - z.B. 1N 4148
 - 1x (Q1) - SMD-Transistor BC847 (SOT-23)
