@@ -72,5 +72,18 @@ Die Platine passt in das Gehäuse von "tonischabloni" auf Thingiverse
 ![1-fach Schaltaktor](20190822_222226.jpg)
 
 
+### Zusammenbau
+
+Zuerst sollten die SMD-Bauteile auf die Platine gelötet werden.
+Die Bestückung erfolgt je nach Verwendungszweck (siehe oben).
+Anschließend den Config-Taster und die Stiftleiste für das Funkmodul auflöten.
+
+![Bestückung Teil 1](20190903_054802.jpg)
+
+Wenn das geschafft ist, dann folgen der Arduino und das Funkmodul.
+
+![Bestückung Teil 2](20190903_054850.jpg)
+
+
 ### Generelle Hinweise:
 Achtung: kein Verpolungs- oder Überspannungschutz vorhanden
