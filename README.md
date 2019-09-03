@@ -77,17 +77,8 @@ Die Platine passt in das Gehäuse von "tonischabloni" auf Thingiverse
 
 ----------------------------------------------------------------------------------------
 
-### Zusammenbau
-
-Zuerst sollten die SMD-Bauteile auf die Platine gelötet werden.
-Die Bestückung erfolgt je nach Verwendungszweck (siehe oben).
-Anschließend den Config-Taster und die Stiftleiste für das Funkmodul auflöten.
-
-![Bestückung Teil 1](20190903_054802.jpg)
-
-Wenn das geschafft ist, dann folgen der Arduino und das Funkmodul.
-
-![Bestückung Teil 2](20190903_054850.jpg)
+### Wiki
+Nähere Informationen zum Aufbau sind im [Wiki](https://github.com/pafra-123/AskSin_Uni_PCB/wiki) zu finden.
 
 ----------------------------------------------------------------------------------------
 
