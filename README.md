@@ -9,7 +9,10 @@ Kompakte, universale Platine für [Asksin-Projekte](https://asksinpp.de/)
 ![LS](AskSin_Uni_PCB_01a.jpg)
 
 [Schaltplan](AskSin_Uni_PCB.pdf)<br>
-[Gerber-Daten mit 4 Platinen](/Gerber/)
+<br>
+### Gerber-Daten:
+[Gerber-Daten mit 4 Platinen](/Gerber/)<br>
+![Gerber-Daten mit 4 Platinen](AskSin_Uni_PCB_4fach.jpg)
 
 ----------------------------------------------------------------------------------------
 
