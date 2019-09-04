@@ -29,51 +29,13 @@ Kompakte, universale Platine für [Asksin-Projekte](https://asksinpp.de/)
 
 ----------------------------------------------------------------------------------------
 
-### Benötigte Bauteile
-#### Minimalbestückung:
-- 1x (U1) - ATmega328P und 3,3V / 8Mhz
-- 1x (U2) - Funkmodul CC1101 868Mhz
-- 1x (J6) - 8pol. Stiftleiste, gerade, RM 2,00
-- 1x (D1) - SMD-LED rot (1206)
-- 1x (R5) - SMD-Widerstand 1kOhm (0805)
-- 1x (C2) - SMD-Kondensator 10µF (0805)
-- 1x (SW1) - Kurzhubtaster 6x6mm
-
-D2 (2. LED) und R6 sind optinal falls der Sketch das unterstützt. Werte siehe D1 und R5.
-
-
-
-#### Für die Verwendung als HB-UNI-Sen-CAP-MOIST zusätzlich zur Minimalbestückung:
-- 1x (R1) - SMD-Widerstand 470kOhm (0805)
-- 1x (R2) - SMD-Widerstand 100kOhm (0805)
-
-Die Platine passt in das Gehäuse von "tonischabloni" auf Thingiverse
-[Gehäuse HB-UNI-Sen-CAP-MOIST](https://www.thingiverse.com/thing:3633804)
-
-
-#### Für die Verwendung als HB-UNI-Sen-DIST-US zusätzlich zur Minimalbestückung:
-- 1x (R3) - SMD-Widerstand 470kOhm (0805)
-- 1x (R4) - SMD-Widerstand 100kOhm (0805)
-
-
-
-#### Für die Verwendung als HB-UNI-Sen-PRESS zusätzlich zur Minimalbestückung:
-- 1x (R7) - SMD-Widerstand 80kOhm (0805) (oder optinal 2x 160kOhm übereinander gelötet)
-- 1x (R8) - SMD-Widerstand 220kOhm (0805)
-
-
-
-#### Für die Verwendung als 1-fach Schaltaktor zusätzlich zur Minimalbestückung (Versorgungsspannung größer/gleich 5VDC):
-- 1x (R10) - SMD-Widerstand 1kOhm (0805) - optional
-- 1x (LED1) - SMD-LED grün (1206) - optional
-- 1x (R9) - SMD-Widerstand 1kOhm (0805)
-- 1x (D4) - SMD-Diode (SOD-123) - z.B. 1N 4148
-- 1x (Q1) - SMD-Transistor BC847 (SOT-23)
-- 1x (K1) Reed-Relais 5V - ACHTUNG! Keines mit eingebauter Freilaufdiode verwenden!
-- 1x (U3) - 5V Festspannungsregler µA 78L05 (TO-92)
-- 2x (C1,C3) - SMD-Kondensator 10µF (0805)
-
-![1-fach Schaltaktor](20190822_222226.jpg)
+### Bestückvarianten:
+Auf der Universalplatine sind bereits Bestückoptionen für folgende Projekte vorgesehen:
+1. Minimalbestückung für universellen Einsatz
+2. HB-UNI-Sen-CAP-MOIST
+3. HB-UNI-Sen-DIST-US
+4. HB-UNI-Sen-PRESS
+5. 1-fach Batterieaktor HM LC SW1 BA PCB
 
 ----------------------------------------------------------------------------------------
 
