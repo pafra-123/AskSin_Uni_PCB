@@ -40,7 +40,7 @@ Auf der Universalplatine sind bereits Bestückoptionen für folgende Projekte vo
 ----------------------------------------------------------------------------------------
 
 ### Wiki
-Nähere Informationen zum Aufbau sind im [Wiki](https://github.com/pafra-123/AskSin_Uni_PCB/wiki) zu finden.
+Nähere Informationen zum Aufbau und Beispiele sind im [Wiki](https://github.com/pafra-123/AskSin_Uni_PCB/wiki) zu finden.
 
 ----------------------------------------------------------------------------------------
 
