@@ -19,7 +19,7 @@ Kompakte, universale Platine für [Asksin-Projekte](https://asksinpp.de/)
 ### Was kann die Platine?
 - Abmessungen ca. 45x45mm
 - Platz für Arduino und Funkmodul
-- Config Button
+- Config Button (Kurzhubtaster 6x6 mm; Bei der Verwendung des Universalgehäuses Höhe = 13 mm)
 - 2 Status LEDs
 - 1x Pinleiste für I²C (J11)
 - Alle freien I/O Pins sind auf Lötaugen geroutet
