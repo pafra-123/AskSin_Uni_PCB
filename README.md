@@ -4,11 +4,19 @@ Dieses Werk ist lizenziert unter einer [Creative Commons Namensnennung - Nicht-k
 
 # AskSin_Uni_PCB
 
-Kompakte, universale Platine für [Asksin-Projekte](https://asksinpp.de/)
+Kompakte, universale Platine für [Asksin-Projekte](https://asksinpp.de/)<br>
+<br>
+### Ab sofort ist die Version 1.1 verfügbar.
+Die Version 1.1 enthält folgende Änderungen:
+
+- Neue Implementierung einer Micro-USB Buchse zur 5V Spannungsversorgung
+- Hinzufügen eines (Löt)Pads für die Reset-Leitung (für den Programmer zum Flashen der Fuses)
+- Beschriftung auf der Platine angepasst / ergänzt
 
 ![LS](AskSin_Uni_PCB_01a.jpg)
 
-[Schaltplan](AskSin_Uni_PCB.pdf)<br>
+[Schaltplan Version 1.0](AskSin_Uni_PCB.pdf)<br>
+[Schaltplan Version 1.1](AskSin_Uni_PCB_v1.1.pdf)<br>
 <br>
 ### Gerber-Daten:
 [Gerber-Daten mit 4 Platinen](/Gerber/)<br>
@@ -30,6 +38,7 @@ Kompakte, universale Platine für [Asksin-Projekte](https://asksinpp.de/)
 - Optionaler SMD-Spannungsteiler für HB-UNI-Sen-DIST-US (R3, R4)
 - Optionaler SMD-Spannungsteiler für HB-UNI-Sen-PRESS (R7, R8)
 - Die Versorungsspannung wird auf J10 angeschlossen (Pin 1 = Vcc (3..10V); Pin 2 = GND)
+- Optionale Micro-USB Buchse zur Spannungsversorgung (Version 1.1)
 
 ----------------------------------------------------------------------------------------
 
