@@ -13,6 +13,10 @@ Die Version 1.1 enthält folgende Änderungen:
 - Hinzufügen eines (Löt)Pads für die Reset-Leitung (für den Programmer zum Flashen der Fuses)
 - Beschriftung auf der Platine angepasst / ergänzt
 
+#### Version 1.1:
+![LS](/images/AskSin_Uni_PCB_v1.1_BS.jpg)
+
+#### Version 1.0:
 ![LS](AskSin_Uni_PCB_01a.jpg)
 
 [Schaltplan Version 1.0](AskSin_Uni_PCB.pdf)<br>
